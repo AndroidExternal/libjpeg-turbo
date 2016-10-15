@@ -21,4 +21,4 @@
 #define PACKAGE_NAME "libjpeg-turbo"
 
 /* Version number of package */
-#define VERSION "1.4.2"
+#define VERSION "1.5.1"

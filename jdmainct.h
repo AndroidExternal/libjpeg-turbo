@@ -3,7 +3,8 @@
  *
  * This file was part of the Independent JPEG Group's software:
  * Copyright (C) 1994-1996, Thomas G. Lane.
- * For conditions of distribution and use, see the accompanying README file.
+ * For conditions of distribution and use, see the accompanying README.ijg
+ * file.
  */
 
 #define JPEG_INTERNALS
@@ -34,7 +35,7 @@ typedef struct {
   JDIMENSION iMCU_row_ctr;      /* counts iMCU rows to detect image top/bot */
 } my_main_controller;
 
-typedef my_main_controller * my_main_ptr;
+typedef my_main_controller *my_main_ptr;
 
 
 /* context_state values: */
